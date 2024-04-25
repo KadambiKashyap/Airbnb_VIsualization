@@ -11,9 +11,9 @@ import urllib.parse
 
 
 
-username = "kashyap"
-password = "Abdevillers@17"
-cluster_url = "kash.1gzj0jw.mongodb.net/sample_airbnb"
+username = "your_user_name"
+password = "your_password"
+cluster_url = "url_avaialble@mongodb_atlas"
 
 escaped_username = urllib.parse.quote_plus(username)
 escaped_password = urllib.parse.quote_plus(password)
