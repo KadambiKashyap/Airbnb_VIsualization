@@ -1,8 +1,5 @@
 # Airbnb Analysis
 
-## Project Title
-Airbnb Analysis
-
 ## Project Overview
 This repository hosts the code for Airbnb Analysis, a project aimed at analyzing Airbnb data using MongoDB Atlas, performing data cleaning and preparation, developing interactive geospatial visualizations, and creating dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends in the travel industry, property management, and tourism domain.
 
